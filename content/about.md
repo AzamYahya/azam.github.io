@@ -1,6 +1,9 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
+date: "2020-10-05T21:48:51-07:00"
 title: About
 ---
-
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+Currently, there is no data science-driven
+digital investment platform in Pakistan. Quantree is a robo-advisor
+company which is in security advisory business, which would assist
+investors to make goal-oriented investment done to replace discrete
+portfolio managers.
